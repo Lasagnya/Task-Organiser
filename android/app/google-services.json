@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755872735042",
+    "project_id": "task-organiser-bcca0",
+    "storage_bucket": "task-organiser-bcca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755872735042:android:24340119f2b0b9f3f232db",
+        "android_client_info": {
+          "package_name": "com.example.task_organiser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLP63VsMoVIlXNNUcLJaLiPaBWPMcbTDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
